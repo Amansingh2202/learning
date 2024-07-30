@@ -1,3 +1,3 @@
 const a=24;
-const b=69
+const b=67
 const hello="npthiingg"
